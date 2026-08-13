@@ -1,6 +1,6 @@
 package factorymethod;
 
-// Interface Veiculo herdando de Produto com o método exibirDetalhes()
-public interface Veiculo extends Produto {
+// Interface principal da Parte 1
+public interface Veiculo {
     void exibirDetalhes();
 }
