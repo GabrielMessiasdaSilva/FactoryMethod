@@ -22,9 +22,6 @@ Este repositorio contem:
 - `src/main/java/io/github/fatec/Main.java`: ponto de entrada com os testes em Swing.
 - `src/assets`: imagens dos diagramas exibidos neste README.
 
-
-```
-
 Os diagramas abaixo descrevem as estruturas implementadas no codigo.
 
 ## Diagrama de Classes - Parte 1 (Factory Method)
