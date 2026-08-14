@@ -1,5 +1,6 @@
 # Factory Method e Abstract Factory - Exemplo em Java Swing
 
+Aluno: Gabriel Messias da Silva
 Projeto de exemplo demonstrando os padrões de projeto Factory Method e Abstract Factory em Java Swing.
 
 ## O que este projeto faz
